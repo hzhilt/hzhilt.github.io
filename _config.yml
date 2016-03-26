@@ -1,0 +1,29 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: coder2thinker
+  email: 495386866@qq.com
+  link: http://****.****
+  weibo: http://weibo.com/****
+  github: http://github.com/****
+
+# 站点信息
+title: coder2thinker's blog
+description: coder2thinker's博客
+url: http://hzlilt.gitcafe.io
+rss_url: /pages/atom.xml
+
+#多说配置
+duoshuo_short_name: coder2thinker
+
+#Google站内搜索
+google_cx: google_cx
+
+# avatar头像及Favicon
+avatar: http://i11.tietuku.com/0fe8a4a098d3c334.png
+favicon: http://i11.tietuku.com/0fe8a4a098d3c334.png
